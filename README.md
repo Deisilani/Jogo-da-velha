@@ -1,4 +1,5 @@
-# Jogo-da-velha
+# Jogo-da-velha ![image](https://user-images.githubusercontent.com/53665910/204693043-fc33a4d1-a897-4561-8782-372241cd2b40.png)
+
 Projeto final da disciplina de Arquitetura de Software - Demo jogo da velha em html + css + react
 
 
