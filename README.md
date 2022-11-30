@@ -1,7 +1,7 @@
-# Jogo-da-velha <img src="https://user-images.githubusercontent.com/53665910/204693043-fc33a4d1-a897-4561-8782-372241cd2b40.png" width="40" height="40"/> ![image](https://user-images.githubusercontent.com/53665910/204693283-63d40418-46d0-477f-be0c-5fa72fe0c154.png width="40" height="40")
+# Jogo-da-velha <img src="https://user-images.githubusercontent.com/53665910/204693283-63d40418-46d0-477f-be0c-5fa72fe0c154.png" width="40" height="40"/>
 
 
-Projeto final da disciplina de Arquitetura de Software - Demo jogo da velha em html + css + react
+Projeto final da disciplina de Arquitetura de Software - Demo jogo da velha em html + css + react <img src="https://user-images.githubusercontent.com/53665910/204693043-fc33a4d1-a897-4561-8782-372241cd2b40.png" width="0" height="20"/>
 
 
 # Autores
