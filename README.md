@@ -10,7 +10,7 @@ Danny Sullivan
 Deisilani Nunes
 
 # Conceitos
-O React é uma biblioteca JavaScript declarativa, eficiente e flexível para criar interfaces com o usuário. 
+O React é uma biblioteca JavaScript <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20" height="20"/>  declarativa, eficiente e flexível para criar interfaces com o usuário. 
 
 Ele permite compor UIs complexas a partir de pequenos e isolados códigos chamados “componentes”.
 
