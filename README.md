@@ -60,4 +60,5 @@ Essa amplitude de funcionalidades e sua forma descomplicada de realizar processo
 ![image](https://user-images.githubusercontent.com/53665910/205100200-7f080db0-a126-46a8-b892-af84f4239a8a.png)
 
 
-
+# Licença
+Licenciado nos termos da licença MIT.
