@@ -53,12 +53,22 @@ Essa amplitude de funcionalidades e sua forma descomplicada de realizar processo
 **Inicio do Jogo**
 ![image](https://user-images.githubusercontent.com/53665910/205099800-81baedb3-d52d-47b3-940b-fcea769a0670.png)
 
-**Jogador ganhou**
+
+**Jogador ganhou** 
 ![image](https://user-images.githubusercontent.com/53665910/205099978-76b578aa-a0fd-4462-94c9-25dcad47832a.png)
 
-**Empate**
+
+**Empate** 
 ![image](https://user-images.githubusercontent.com/53665910/205100200-7f080db0-a126-46a8-b892-af84f4239a8a.png)
+
 
 
 # Licença
 Licenciado nos termos da licença MIT.
+
+# Instalando
+
+- clone https://github.com/Deisilani/Jogo-da-velha.git
+- cd Jogo-da-velha
+- npm install
+- npm start 
