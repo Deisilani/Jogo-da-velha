@@ -48,4 +48,14 @@ Essa amplitude de funcionalidades e sua forma descomplicada de realizar processo
 - Quando o jogo termina, exibe uma caixa de diálogo indicando o vencedor ou o empate, juntamente com um botão de iniciar uma nova partida.
 - O aplicativo guarda as vitórias de cada jogador, mesmo após o aplicativo ser fechado, o resultado ainda é mantido.
 
-**Prints do Jogo**
+# **Prints do Jogo**
+
+**Inicio do Jogo**
+![image](https://user-images.githubusercontent.com/53665910/205099800-81baedb3-d52d-47b3-940b-fcea769a0670.png)
+**Jogador ganhou**
+![image](https://user-images.githubusercontent.com/53665910/205099978-76b578aa-a0fd-4462-94c9-25dcad47832a.png)
+**Empate**
+![image](https://user-images.githubusercontent.com/53665910/205100200-7f080db0-a126-46a8-b892-af84f4239a8a.png)
+
+
+
