@@ -41,12 +41,14 @@ Essa amplitude de funcionalidades e sua forma descomplicada de realizar processo
 
 # Funcionalidades do Jogo:
 
-- Um jogador ganha reivindicando 3 células que caem em uma linha horizontal, vertical ou diagonal.
-- Os jogadores empatam se não houver mais movimentos possíveis (ou seja, todas as células são reivindicadas).
-- Botão de reiniciar a partida.
-- Ao clicar no botão de reiniciar, exibe uma caixa de diálogo perguntando ao usuário se ele tem certeza, se clicar no "OK", reinicia a partida, se clicar em cancelar, a caixa de diálogo é fechada e o jogo atual é retomado.
+Este exemplo é do clássico jogo da velha, onde ganha o jogador que primeiro fizer 3 pontos.
+
+
+- Um jogador ganha ao preencher 3 campos que caem em uma linha horizontal, vertical ou diagonal.
+- Os jogadores empatam se não houver mais movimentos possíveis (ou seja, todas os campos são reivindicados).
+- Ao finalizar a partida, é anunciado um vencedor e o jogo pode ser reiniciado.
+- Quando clicar no botão de reiniciar, é exibida uma caixa de diálogo perguntando ao usuário se ele tem certeza. Se clicar no "OK", reinicia a partida, se clicar em cancelar, a caixa de diálogo é fechada e o jogo atual é retomado.
 - Quando o jogo termina, exibe uma caixa de diálogo indicando o vencedor ou o empate, juntamente com um botão de iniciar uma nova partida.
-- O aplicativo guarda as vitórias de cada jogador, mesmo após o aplicativo ser fechado, o resultado ainda é mantido.
 
 # **Prints do Jogo**
 
